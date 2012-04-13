@@ -1,0 +1,13 @@
+div.rwmb-drag-drop {
+	border: 4px dashed #ddd;
+}
+div.rwmb-drag-drop-inside {
+	margin: 50px auto;
+}
+div.rwmb-drag-drop-inside p {
+	text-align: center;
+	display: block;
+	font-size: 20px;
+	margin: 5px 0;
+	color: #aaa;
+}
